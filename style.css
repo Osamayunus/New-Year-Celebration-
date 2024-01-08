@@ -48,3 +48,14 @@ header{
   background-color: orangered;
   border-radius:10px;
 }
+.offer{
+  display: flex;
+}
+.img3{
+  border: 20px;
+  border-color: black;
+}
+.img4{
+    background-image: url('/Rectangle 2.png')
+
+}

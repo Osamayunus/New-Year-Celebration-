@@ -6,3 +6,17 @@ header{
     background-repeat:no-repeat;
     background-size: 100%;
 }
+.photo1{
+  width: 500px;
+}
+.mid-part{
+  background-image: url('/Vectorrr.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.image2{
+  width: 30px;
+  height: 25px;
+}

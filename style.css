@@ -1,4 +1,4 @@
-body {
+.mar{
   margin: 100px;
 }
 header{
@@ -63,4 +63,47 @@ header{
 
 .offer{
   margin-top: 90px;
+}
+.holiday{
+  font-size: 50px;
+  font-weight: 600px;
+  font-style: solid;
+  font-family: sans-serif;
+}
+.txt{
+  color: #ADAFC4;
+  
+}
+.last-midPart{
+  background-image: url('/Rectangle 1.png');
+ margin-left:475px;
+}
+.img5{
+  background-image: url('/Rectangle 2.png');
+  background-repeat: no-repeat;
+  background-size: 500px;
+ 
+}
+.bottomPart{ margin: 100px 0;
+  background-color: pink;
+  text-align: center;
+  padding-bottom: 40px;
+  border-radius: 20px;
+}
+.btn3{
+  text-decoration: none;
+  color: White;
+  background-color: red ;
+  padding: 6px 20px;
+  margin:3px 0 0 -6px;
+  border-radius: 0 50px 50px 0;
+}
+.input{
+  border: 2px solid;
+  padding: 6px 20px;
+  border-radius: 50px 0px 0 50px;
+  border-color: white
+}
+.call{
+  margin-left: 300px;
 }
